@@ -1,0 +1,7 @@
+backend/target/
+backend/.mvn/
+backend/*.class
+backend/.idea/
+backend/*.iml
+.DS_Store
+*.log
