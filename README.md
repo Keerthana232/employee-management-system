@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/08c1f56a-9978-48e5-bd3b-cf08c7f4528a" /># Employee Management System
+# Employee Management System
 
 A full-stack web application to manage employees and departments, built with Java Spring Boot on the backend and HTML, CSS, Bootstrap, and JavaScript on the frontend.
 
