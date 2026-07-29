@@ -2,7 +2,7 @@
 
 A full-stack web application to manage employees and departments, built with Java Spring Boot on the backend and HTML, CSS, Bootstrap, and JavaScript on the frontend.
 
-**GitHub:** https://github.com/YOUR_USERNAME/employee-management-system
+**GitHub:** https://github.com/Keerthana232/employee-management-system
 **Live Demo:** [add after deployment]
 
 ---
