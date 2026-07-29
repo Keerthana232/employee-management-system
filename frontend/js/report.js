@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:8080/employees/reports";
+const BASE_URL = "https://employee-management-system-production-a1bb.up.railway.app/employees/reports";
 
 // Total Employees
 fetch(BASE_URL + "/total")
@@ -37,8 +37,8 @@ function goToDeptEmployees(deptId) {
 // ---------------- Department-wise Employee Count ----------------
 
 Promise.all([
-    fetch("http://localhost:8080/departments").then(res => res.json()),
-    fetch("http://localhost:8080/employees").then(res => res.json())
+    fetch("https://employee-management-system-production-a1bb.up.railway.app/departments").then(res => res.json()),
+    fetch("https://employee-management-system-production-a1bb.up.railway.app/employees").then(res => res.json())
 ])
 .then(([departments, employees]) => {
 

@@ -1,4 +1,4 @@
-const DEPT_URL = "http://localhost:8080/departments";
+const DEPT_URL = "https://employee-management-system-production-a1bb.up.railway.app/departments";
 
 // ---------------- Load Departments ----------------
 

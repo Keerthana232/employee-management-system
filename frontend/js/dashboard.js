@@ -1,4 +1,4 @@
-const API_BASE = "http://localhost:8080";
+const API_BASE = "https://employee-management-system-production-a1bb.up.railway.app";
 
 fetch(API_BASE + "/employees/reports/total")
   .then(res => res.json())

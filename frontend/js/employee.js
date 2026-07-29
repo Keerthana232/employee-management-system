@@ -1,5 +1,5 @@
-const BASE_URL = "http://localhost:8080/employees";
-const DEPT_URL = "http://localhost:8080/departments";
+const BASE_URL = "https://employee-management-system-production-a1bb.up.railway.app/employees";
+const DEPT_URL = "https://employee-management-system-production-a1bb.up.railway.app/departments";
 
 // ---------------- Employee List ----------------
 
