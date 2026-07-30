@@ -3,7 +3,7 @@
 A full-stack web application to manage employees and departments, built with Java Spring Boot on the backend and HTML, CSS, Bootstrap, and JavaScript on the frontend.
 
 **GitHub:** https://github.com/Keerthana232/employee-management-system
-**Live Demo:** Live Demo: https://employee-management-system-zeta-gray.vercel.app
+**Live Demo:** https://employee-management-system-zeta-gray.vercel.app
 
 ---
 
