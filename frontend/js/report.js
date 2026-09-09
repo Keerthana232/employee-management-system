@@ -36,8 +36,8 @@ function goToDeptEmployees(deptId) {
 // ---------------- Department-wise Employee Count ----------------
 
 Promise.all([
-    fetch("https://employee-management-system-production-a1bb.up.railway.app/departments").then(res => res.json()),
-    fetch("https://employee-management-system-production-a1bb.up.railway.app/employees").then(res => res.json())
+    fetch("https://employee-management-system-wjwb.onrender.com/departments").then(res => res.json()),
+ fetch("https://employee-management-system-wjwb.onrender.com/employees").then(res => res.json())
 ])
 .then(([departments, employees]) => {
 
