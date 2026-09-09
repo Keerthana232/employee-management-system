@@ -1,6 +1,5 @@
-const BASE_URL = "https://employee-management-system-production-a1bb.up.railway.app/employees";
-const DEPT_URL = "https://employee-management-system-production-a1bb.up.railway.app/departments";
-
+const BASE_URL = "https://employee-management-system-wjwb.onrender.com/employees";
+const DEPT_URL = "https://employee-management-system-wjwb.onrender.com/departments";
 // ---------------- Employee List ----------------
 
 function renderRows(data) {
