@@ -1,5 +1,4 @@
-const BASE_URL = "https://employee-management-system-production-a1bb.up.railway.app/employees/reports";
-
+const BASE_URL = "https://employee-management-system-wjwb.onrender.com/employees/reports";
 // Total Employees
 fetch(BASE_URL + "/total")
 .then(res => res.json())
