@@ -1,4 +1,4 @@
-const DEPT_URL = "https://employee-management-system-production-a1bb.up.railway.app/departments";
+const DEPT_URL = "https://employee-management-system-wjwb.onrender.com/departments";
 
 // ---------------- Load Departments ----------------
 
