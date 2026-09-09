@@ -1,4 +1,4 @@
-const API_BASE = "https://employee-management-system-production-a1bb.up.railway.app";
+const API_BASE = "https://employee-management-system-wjwb.onrender.com";
 
 fetch(API_BASE + "/employees/reports/total")
   .then(res => res.json())
